@@ -1,4 +1,4 @@
-# Actividad 3.3 | Programando un DFA
+# DFA Lexer
 
 DFA's (Deterministic Finite Automatons) are computational tools that are useful for analyzing strings and verifying their membership to a regular language.
 
