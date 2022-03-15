@@ -1,0 +1,17 @@
+a = b+3
+x_13sz  - 10.3E-0
+a =  b+ c
+-34234.23e+2
+-34234.23e-2
+-34234.23e2
+10.0 .0 -0.123 +123 -100 10. // penesote
+^*() +4 - 3 + 2 0.2 
+             // hola
+sdfaf_adfafS
+ADFA
+_variable
+Variable
+variable
+3variable
+ 
+// esto es un ERROR
